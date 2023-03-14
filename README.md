@@ -12,7 +12,7 @@ Organizção dos principais tópicos básicos de uma linguagem de programação
 
 ## Variáveis
 
-[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#imprimir-na-tela)
+[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#vari%C3%A1veis)
 
 ## Conversões
 
