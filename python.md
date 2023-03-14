@@ -73,6 +73,7 @@ while i < 5:
 <br>
 ❗ No arrays in  python
 <br>
+
 ## Listas
 
 ```python
