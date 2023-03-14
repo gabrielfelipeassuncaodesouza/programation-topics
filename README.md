@@ -16,40 +16,40 @@ Organizção dos principais tópicos básicos de uma linguagem de programação
 
 ## Conversões
 
-[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#imprimir-na-tela)
+[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#convers%C3%B5es)
 
 ## Operadores aritiméticos
 
-[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#imprimir-na-tela)
+[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#operadores-aritim%C3%A9ticos)
 
 ## Manipular strings
 
-[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#imprimir-na-tela)
+[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#manipular-strings)
 
 ## if/else
 
-[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#imprimir-na-tela)
+[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#ifelse)
 
 ## Loops
 
-[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#imprimir-na-tela)
+[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#loops)
 
 ## Arrays
 
-[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#imprimir-na-tela)
+[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#arrays)
 
 ## Listas
 
-[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#imprimir-na-tela)
+[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#listas)
 
 ## Dicionários
 
-[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#imprimir-na-tela)
+[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#dicion%C3%A1rios)
 
 ## Funções
 
-[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#imprimir-na-tela)
+[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#fun%C3%A7%C3%B5es)
 
 ## Exceptions
 
-[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#imprimir-na-tela)
+[Python](https://github.com/gabrielfelipeassuncaodesouza/programation-topics/blob/main/python.md#exceptions)
